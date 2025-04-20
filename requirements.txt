@@ -1,7 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 20 14:54:49 2025
-
-@author: LAB
-"""
+streamlit
+tensorflow
+pillow
+numpy
 
